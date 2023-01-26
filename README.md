@@ -1,8 +1,3 @@
-# Fiktivna-firma
+Desktop aplikacija napisana u WPF (.NET, C#)
 
-```
-StudentModel == FirmModel
-StudentEntities == FirmEntities
-button1 == loginButton
-StudentRepository == EmployeeRepository
-```
+Desktop aplikacija predstavlja jednostavnu ERP desktop aplikaciju za firmu.
